@@ -3,7 +3,7 @@ package homeworkweek6;
 import java.util.Scanner;
 public class Programme19 {
     public static void main(String[] args) {
-       /* Scanner sc=new Scanner(System.in);
+       /* Scanner sc=new Scanner(System.in);// another way to convert upper case to lower case
         System.out.println("Enter the string: ");
         String line=sc.nextLine();
         line=line.toLowerCase();

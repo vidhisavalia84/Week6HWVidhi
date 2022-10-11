@@ -1,4 +1,5 @@
 package homeworkweek6;
+//Write a Java program that takes three numbers as input to calculate and print the average of the numbers
 import java.util.Scanner;
 public class Programme13 {
     public static void main(String[] args) {
